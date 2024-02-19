@@ -2,22 +2,20 @@
 
 
 
-![nuke](https://github.com/amitAsher22/nike/assets/69055006/9ee58619-f7ca-4291-a155-492eefa7541c)
 
+![screencapture-food-landing-page-blue-vercel-app-2024-02-19-14_03_42](https://github.com/amitAsher22/food_landingPage/assets/69055006/c191e469-a719-4762-9245-d9810c1e7019)
 
-
-:triangular_flag_on_post: <a href="https://nike-five-smoky.vercel.app/" target="_blank">The Website</a>
+:triangular_flag_on_post: <a href="https://food-landing-page-blue.vercel.app/" target="_blank">The Website</a>
 
 let's see what react js actually is And I used : 
 - *React* is a *JavaScript* library for building user-friendly interfaces.
 - Modular Components National
-- CSS High Level
-- build a React CRUD Application 
+- CSS High Level 
 - Responsive Web Design
 - react-bootstrap-icons
-- tailwind
+- mui/icons-material
 - react-hooks
-- Vite
+
 
 ## Setup
 
